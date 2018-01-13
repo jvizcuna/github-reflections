@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+What new skills have you learned?
+I have always been very afraid of having to start a website from scratch since I do not know all the terms used by the developers, but this program has undoubtedly helped me to start in a friendly way and with the best reward of eventually forming myself as a web developer and who knows if you can work for Google in the future :).
+
+What has been easy?
+I think for me wasn't 100% easy since There were terms which was I wasn't familiar but all the resources like "https://developer.mozilla.org/en-US/docs/Web/HTML/Element" are definitely a good resource to have and finish all these first lessons.
+
+What has been difficult?
+More than difficult I think was a "bug" on my udacity progress. When I finish for the first time the Lesson3 I log out and when I log in few minutes later I notices that I lost half of my progress. Thank good I saved all the index.html files for each one fo those and just did them again. I actually ask to the community in Slack but nobody answer.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+Those solving strategies are definitely an excellent resource to understand a little bit more every step, and I'm sure I'll be continue using them for any future question or doubt about my projects.
+
+
+
